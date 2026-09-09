@@ -124,7 +124,7 @@ Proyek ini dilisensikan di bawah **MIT License** — lihat berkas [LICENSE](http
 
 ## 📞 Kontak & Dukungan
 
-Jika Anda memiliki pertanyaan, saran, atau menemukan bug, silakan buat issue baru di tab [Issues](https://www.google.com/search?q=../../issues) atau hubungi tim pengembang melalui email: **support@umkmpintarkasir.id**.
+Jika Anda memiliki pertanyaan, saran, atau menemukan bug, silakan buat issue baru di tab [Issues](https://www.google.com/search?q=../../issues) atau hubungi tim pengembang melalui Instagram: **@pinterID.**.
 
 ---
 
