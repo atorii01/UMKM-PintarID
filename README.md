@@ -129,7 +129,3 @@ Jika Anda memiliki pertanyaan, saran, atau menemukan bug, silakan buat issue bar
 ---
 
 *Dibuat dengan ❤️ untuk kemajuan UMKM Indonesia.*
-
-```
-
-```
