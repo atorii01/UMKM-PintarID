@@ -57,9 +57,9 @@ Sebelum menjalankan proyek ini, pastikan sistem Anda memenuhi persyaratan beriku
 ### Langkah-Langkah Instalasi
 
 1. **Clone Repositori:**
-   ```bash
-   git clone [https://github.com/username-anda/UmkmPintarKasir.git](https://github.com/username-anda/UmkmPintarKasir.git)
-   cd UmkmPintarKasir
+```bash
+git clone [https://github.com/username-anda/UmkmPintarKasir.git](https://github.com/username-anda/UmkmPintarKasir.git)
+cd UmkmPintarKasir
 
 ```
 
