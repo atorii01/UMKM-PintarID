@@ -39,7 +39,7 @@
 ## 🛠️ Teknologi yang Digunakan
 
 - **Bahasa Pemrograman:** C# (.NET Framework / .NET Core)
-- **Komponen Vektor & Matematika:** `System.Numerics.Vectors` (Optimasi pemrosesan data & grafis)
+- **Komponen Vektor & Matematika:** `System.Numerics.Vectors`
 - **Database:** SQLite / Local DB (Offline Storage)
 - **Format Pertukaran Data:** JSON / XML
 - **Version Control:** Git & GitHub
@@ -60,3 +60,76 @@ Sebelum menjalankan proyek ini, pastikan sistem Anda memenuhi persyaratan beriku
    ```bash
    git clone [https://github.com/username-anda/UmkmPintarKasir.git](https://github.com/username-anda/UmkmPintarKasir.git)
    cd UmkmPintarKasir
+
+```
+
+2. **Restore Dependencies / Paket NuGet:**
+```bash
+dotnet restore
+
+```
+
+
+3. **Build Proyek:**
+```bash
+dotnet build
+
+```
+
+
+4. **Jalankan Aplikasi:**
+```bash
+dotnet run
+
+```
+
+
+
+---
+
+## 📂 Struktur Proyek
+
+```text
+UmkmPintarKasir/
+├── src/
+│   ├── Models/         # Data Model (Produk, Transaksi, User, dll.)
+│   ├── Views/          # Antarmuka Pengguna / UI Layouts
+│   ├── Controllers/    # Logika Bisnis & Pengendali Aplikasi
+│   └── Services/       # Layanan Printer, Database, dan Export Laporan
+├── docs/               # Dokumentasi Teknis Tambahan
+├── lib/                # Library & Package Eksternal (.NET Assembly)
+└── README.md           # Berkas Penjelasan Proyek
+
+```
+
+---
+
+## 🤝 Kontribusi
+
+Kami sangat menyambut kontribusi dari komunitas untuk mengembangkan proyek ini agar semakin berguna bagi para pelaku UMKM!
+
+1. *Fork* repositori ini.
+2. Buat *branch* fitur baru Anda (`git checkout -b fitur/FiturBaruAnda`).
+3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru X'`).
+4. Push ke *branch* tersebut (`git push origin fitur/FiturBaruAnda`).
+5. Buat **Pull Request (PR)** baru.
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah **MIT License** — lihat berkas [LICENSE](https://www.google.com/search?q=LICENSE) untuk detail selengkapnya.
+
+---
+
+## 📞 Kontak & Dukungan
+
+Jika Anda memiliki pertanyaan, saran, atau menemukan bug, silakan buat issue baru di tab [Issues](https://www.google.com/search?q=../../issues) atau hubungi tim pengembang melalui email: **support@umkmpintarkasir.id**.
+
+---
+
+*Dibuat dengan ❤️ untuk kemajuan UMKM Indonesia.*
+
+```
+
+```
