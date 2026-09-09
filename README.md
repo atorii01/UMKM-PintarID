@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![NET Version](https://img.shields.io/badge/.NET-6.0%20%7C%207.0%20%7C%208.0-purple.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20Desktop-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Desktop-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-Active--Development-green.svg)
 
 **UmkmPintarKasir** adalah aplikasi Sistem Point of Sale (POS) / Kasir Digital yang dirancang khusus untuk membantu Usaha Mikro, Kecil, dan Menengah (UMKM) dalam mengelola transaksi penjualan, pencatatan stok barang, dan laporan keuangan usaha secara efisien, modern, dan mudah digunakan.
