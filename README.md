@@ -58,7 +58,7 @@ Sebelum menjalankan proyek ini, pastikan sistem Anda memenuhi persyaratan beriku
 
 1. **Clone Repositori:**
 ```bash
-git clone [https://github.com/username-anda/UmkmPintarKasir.git](https://github.com/username-anda/UmkmPintarKasir.git)
+git clone https://github.com/atorii01/UmkmPintarKasir.git
 cd UmkmPintarKasir
 
 ```
