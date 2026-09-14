@@ -58,8 +58,8 @@ Sebelum menjalankan proyek ini, pastikan sistem Anda memenuhi persyaratan beriku
 
 1. **Clone Repositori:**
 ```bash
-git clone https://github.com/atorii01/UmkmPintarKasir.git
-cd UmkmPintarKasir
+git clone https://github.com/atorii01/UMKM-PintarID.git
+cd UMKM-PintarID
 
 ```
 
@@ -90,7 +90,7 @@ dotnet run
 ## 📂 Struktur Proyek
 
 ```text
-UmkmPintarKasir/
+UMKM-PintarID/
 ├── src/
 │   ├── Models/         # Data Model (Produk, Transaksi, User, dll.)
 │   ├── Views/          # Antarmuka Pengguna / UI Layouts
